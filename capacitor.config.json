@@ -1,0 +1,6 @@
+{
+  "appId": "com.aliscan.app",
+  "appName": "AliScan",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
